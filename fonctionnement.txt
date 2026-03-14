@@ -1,0 +1,8 @@
+   Fonctionnement de l’Intelligence Artificielle
+. Apprentissage : l’IA apprend à partir de grandes quantités de données (images, textes, sons).
+
+.Traitement : elle utilise des algorithmes pour analyser et produire des résultats (prédictions, classifications, réponses).
+
+. Amélioration : plus elle reçoit de données et de retours, plus elle devient performante.
+
+. Applications : reconnaissance vocale, traduction, voitures autonomes, médecine, etc.
